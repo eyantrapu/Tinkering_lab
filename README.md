@@ -1,1 +1,2 @@
 # Tinkering_lab
+These projects are designed under Tinkering_Lab,UIET,Panjab Unversity, Chandigarh. The projects are developed in collaboration with Saksham Creative Education,which is a non profit organisation working for the education of children. This aims at providing school students an insight into ongoing projects that would help them to make their lives easier.The objective of this initiative is to foster curiosity, creativity and imagination in young minds; and inculcate skills such as design mindset, computational thinking, adaptive learning, physical computing etc.
